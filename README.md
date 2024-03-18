@@ -1,2 +1,2 @@
 # Pixel Inspector
- A python 2D escape game
+ A python/pygame 2D escape game
