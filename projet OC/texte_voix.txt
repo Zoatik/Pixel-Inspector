@@ -1,0 +1,24 @@
+texte pix:
+  (ref. tirelire/cochon)
+	1."Il faut qu'on l'aide!"
+	2."La tirelire semble vouloir te remercier"
+	3."Il a l'air d'être fascinée par les aiguilles de la montre!"
+	4."Cete tirelire semble vouloir dire quelque chose... tu devrais aller la voir!"
+
+  (ref. indice pour la variable)
+	5."Il y a comme un nombre inscrit sur ce robot..."
+
+texte cochon/tirelire:
+	1."Enfin quelqu'un... vite dépêche-toi de réparer l'horloge! Prends cet outil."
+	2."Ne reste pas planté là, je n'ai pas ton temps, moi!"
+	3."Ah! Enfin! J'attendais ça depuis longtemps. Environ... A bah non, j'avais pas l'heure. Tiens, pour te remercier."
+	4."si tu te poses la question, NON! TU NE PEUX PAS METTRE DE PIECES DANS MA FENTE!"
+
+texte inspecteur Déric du turfu de la muerte:
+  (ref. horloge)
+	1."ça n'a pas l'air de fonctionner..."
+
+
+
+
+on pourrait faire des easters eggs: si le joueur se trompe trop de fois on met de la merde ou un truc du genre

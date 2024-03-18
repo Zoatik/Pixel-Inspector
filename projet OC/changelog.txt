@@ -1,0 +1,26 @@
+créateurs: Loïc et Axel
+nom_projet: Pixel Inspector
+version_actuelle: 5.0/06_05
+previous_given_version: 4.5
+packages_nécessaires: pygame
+
+||| TOUTES LES MODIFICATIONS DECRITES CI-DESSOUS CONCERNENT L'AVANCEE |||
+|||    ENTRE LA "previous_given_version" et la "version_actuelle"!     |||
+
+Patch de version:
+  1. bugs corrigés:
+	- bug dans l'accueil
+  2.graphiques:
+	- ajout de l'accueil
+  3.code:
+	- /
+  4.musiques:
+	- /
+  5.sons et bruitages:
+	- ajouts des voix pour la tirelire
+  6.texte
+	- /
+
+
+
+
